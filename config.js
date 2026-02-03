@@ -28,7 +28,7 @@ global.mods = []
 global.prems = []
 
 // Cambiar a false para desactivar en "auto-reconexion" de sub-bots
-global.gataJadibts = true
+global.gataJadibts = es //Idioma de GataBot
 
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 global.isBaileysFail = true
